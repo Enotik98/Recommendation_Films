@@ -1,0 +1,24 @@
+.DS_Store
+movie-vue/node_modules
+movie-vue/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+movie-vue/.idea
+movie-vue/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+server_flsk/__pycache__
