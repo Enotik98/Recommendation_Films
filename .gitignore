@@ -21,4 +21,4 @@ movie-vue/.vscode
 *.njsproj
 *.sln
 *.sw?
-server_flsk/__pycache__
+server_flask/__pycache__
